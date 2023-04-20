@@ -1,13 +1,13 @@
 # Site settings
 title: 金皮皮的个人主页
-SEOTitle: 三叶草国际语 - 让沟通更容易
+SEOTitle: 金皮皮的个人主页
 header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
-description: "中西融合, 即学即会, 从此不再辛苦背单词"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
-url: "https://klovien.github.io"          # your host, for absolute URL
+email: mischief233@gmail.com
+description: "金皮皮的个人主页"
+keyword: "深度学习,机器学习,金融图像"
+url: "https://mischief233.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/mischief233/mischief233.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
+  repo: mischief233.github.io    #仓库名称
+  owner: mischief233    #github用户名
+  admin: mischief233
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -94,18 +94,3 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
-
-
-# 友情链接，请尽量不要删除，谢谢！
-friends: [
-    {
-        title: "星球国际语",
-        href: "https://globien.gitee.io"
-    },{
-        title: "星球语互动社区",
-        href: "https://tieba.baidu.com/f?kw=%E6%A0%BC%E7%BD%97%E6%AF%94%E8%A8%80&fr=home"
-    },{
-        title: "知乎：人造国际语",
-        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
-    }
-]
