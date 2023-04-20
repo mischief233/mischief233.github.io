@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      BeautifulSoup4
+subtitle:   BeautifulSoup4-一个对网页操作的库
+date:       2023-04-20
+author:     金皮皮
+header-img: img/v2-4bed12d53f95797b389478104565a5fe_r.jpg
+catalog:   true
+tags:
+    - python
+---
 # BeautifulSoup4
 
 ## 一、构建文档树
