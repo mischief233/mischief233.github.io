@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      pillow
+subtitle:   图像库pillow的用法
+date:       2023-04-20
+author:     金皮皮
+header-img: img/v2-4bed12d53f95797b389478104565a5fe_r.jpg
+catalog:   true
+tags:
+    - 深度学习
+---
 # pillow
 
 ## 一、使用Image类
